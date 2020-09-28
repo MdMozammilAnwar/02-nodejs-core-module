@@ -1,0 +1,19 @@
+{
+  "name": "02-nodejs-core-module",
+  "version": "1.0.0",
+  "description": "its node js core module program",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MdMozammilAnwar/02-nodejs-core-module.git"
+  },
+  "author": "Md Mozammil Anwar Quadr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MdMozammilAnwar/02-nodejs-core-module/issues"
+  },
+  "homepage": "https://github.com/MdMozammilAnwar/02-nodejs-core-module#readme"
+}
